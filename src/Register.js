@@ -16,7 +16,7 @@ const Register = () => {
             <input type="text" placeholder='Username' />
             <input type="password" placeholder='Password' />
             <input type="password" placeholder='Confirm Password' />
-            <button type='submit' onClick={handleSubmit}>Register User</button>
+            <button type='submit'>Register User</button>
         </form>
       </div>
     </div>
